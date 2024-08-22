@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: rgb(225, 220, 220);
 }
 
 .App-logo {
@@ -40,4 +41,8 @@
 .similarComponents {
   display:flex;
 justify-content:space-between;
+}
+.similarComponents {
+display: flex;
+justify-content: space-between;
 }
